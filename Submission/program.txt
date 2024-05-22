@@ -1,0 +1,8 @@
+var = 60 / 2
+var2 = "cool string"
+var3 = 5
+print var + var3
+del var
+del var3
+print var2
+print var
