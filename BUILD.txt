@@ -1,0 +1,15 @@
+Files and Folders
+/Submission:		Contains the following files
+    token_.py:		Token class for handling tokens
+    lexer.py:		Lexer class for tokenization
+    parser_.py:		Parser class for producing AST from tokens
+    interpreter.py:	Interpreter class for executing Lexer, Parser, and evaluating AST
+    main.py:		Process 'program.txt' contents for Interpreter
+    program.txt:	Text file to store source code for execution
+
+/SourceExamples:	Contains 5 .txt source files of example programs
+    example_1.txt: 	Numerical binary and unary operations.
+    example_2.txt:	Operator precedence with numerical and boolean values using binary unary operations.
+    example_3.txt:	String concatenation and binary comparison operations.
+    example_4.txt:	Variable assignment and reserved keyword (print) execution on binary operations.
+    example_5.txt:	Global scope handling using reserved keyword (del) with proper error detection.
